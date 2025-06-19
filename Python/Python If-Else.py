@@ -7,7 +7,6 @@ import re
 import sys
 
 
-
 n = int(input())
 const = 1 <= n <= 100
 if n%2 != 0 and const:
